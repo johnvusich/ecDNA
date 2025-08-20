@@ -40,4 +40,4 @@ Hangbang Li, Jialin Lu, Yan Bian, Ye Gao, & Luowei Wang. Extrachromosomal DNA in
 - [AmpliconArchitect (AA)](https://github.com/AmpliconSuite/AmpliconArchitect)
 - [AmpliconClassifier (AC)](https://github.com/AmpliconSuite/AmpliconClassifier)
 - [CycleViz](https://github.com/AmpliconSuite/CycleViz)
-- [nf-core/circdna](https://nf-co.re/circdna/) [GitHub page](https://github.com/nf-core/circdna/)
+- [nf-core/circdna](https://nf-co.re/circdna/) & [GitHub page](https://github.com/nf-core/circdna/)
