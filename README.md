@@ -8,9 +8,9 @@ David Cox, Catherine Yuncken, & Arthur I. Spriggs. Minute Chromatin Bodies in Ma
 
 ### Lots of articles on ecDNA from Geoff Wahl's lab, see [here](https://wahl.salk.edu/wp-content/uploads/sites/15/2017/07/WahlCVJuly2017.pdf) (still need to sift through).
 
-### [Here](https://pmc.ncbi.nlm.nih.gov/articles/PMC363312/pdf/molcellb00064-0153.pdf) is one example of detection of ecDNA in cell lines
+### [Here](https://pmc.ncbi.nlm.nih.gov/articles/PMC363312/pdf/molcellb00064-0153.pdf) is one example of detection of ecDNA in cell lines from 1988.
 
-### [Here](https://pubmed.ncbi.nlm.nih.gov/1720337/) is an early review from Geoff Wahl's lab on "Double minute chromosomes" (ecDNA)
+### [Here](https://pubmed.ncbi.nlm.nih.gov/1720337/) is an early review from Geoff Wahl's lab on "Double minute chromosomes" (ecDNA).
 
 ## Foundational Articles
 
