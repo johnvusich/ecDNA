@@ -6,7 +6,7 @@ Articles and Computational Methods for extrachromosomal DNA (ecDNA) in cancer
 ### First mention of double-minute chromosomes which would later be called ecDNA in human tumors
 David Cox, Catherine Yuncken, & Arthur I. Spriggs. Minute Chromatin Bodies in Malignant Tumours of Childhood. _The Lancet_ (1965). https://doi.org/10.1016/S0140-6736(65)90131-5
 
-### Lots of articles on ecDNA [here](https://wahl.salk.edu/wp-content/uploads/sites/15/2017/07/WahlCVJuly2017.pdf) (still need to sift through)
+### Lots of articles on ecDNA from Geoff Wahl's lab, see [here](https://wahl.salk.edu/wp-content/uploads/sites/15/2017/07/WahlCVJuly2017.pdf) (still need to sift through).
 
 ## Foundational Articles
 
