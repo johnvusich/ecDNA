@@ -32,3 +32,12 @@ Yanfen Zhu, Amit D. Gujar, Chee-Hong Wong, et al. Oncogenic extrachromosomal DNA
 
 ### 2025 review focusing on the current basic knowledge as well as the current techniques used for ecDNA research
 Hangbang Li, Jialin Lu, Yan Bian, Ye Gao, & Luowei Wang. Extrachromosomal DNA in Cancer: Molecular Mechanisms Underlying Oncogene Amplification and Tumor Heterogeneity. _Critical Reviews in Oncology/Hematology_ (2025). https://doi.org/10.1016/j.critrevonc.2025.104898
+
+## Computational Methods for ecDNA
+
+### [Amplicon-Suite](https://github.com/AmpliconSuite)
+- [Amplicon-Suite Pipeline](https://github.com/AmpliconSuite/AmpliconSuite-pipeline)
+- [AmpliconArchitect (AA)](https://github.com/AmpliconSuite/AmpliconArchitect)
+- [AmpliconClassifier (AC)](https://github.com/AmpliconSuite/AmpliconClassifier)
+- [CycleViz](https://github.com/AmpliconSuite/CycleViz)
+- [nf-core/circdna](https://nf-co.re/circdna/) [GitHub page](https://github.com/nf-core/circdna/)
